@@ -1,5 +1,7 @@
 # HPC AI Coder — Autonomous Coding Agent for CPU-Only HPC Clusters
 
+![HPCLoom](./HPCLoom.png)
+
 An automated, self-correcting workflow for running AI coding agents ([Aider](https://github.com/Aider-AI/aider)) on CPU-only HPC clusters managed by **SGE (Sun Grid Engine)**, using [`llama.cpp`](https://github.com/ggerganov/llama.cpp) as the local inference backend.
 
 The agent autonomously reads a task, writes Python code, executes and tests it, and iteratively fixes its own errors — all without human intervention.
