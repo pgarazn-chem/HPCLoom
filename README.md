@@ -34,7 +34,7 @@ qsub submit_job.sh
 
 | Requirement | Notes |
 |---|---|
-| SGE cluster (`qsub`) | Tested on clusters with Rigeluvps nodes |
+| SGE cluster (`qsub`) | Tested on older HPC clusters |
 | Apptainer | For isolated container execution |
 | Internet access on login node | For model downloads and initial setup |
 | ~24–72 GB RAM per node | Depends on model chosen (see table below) |
