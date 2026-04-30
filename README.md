@@ -236,4 +236,4 @@ For a 12-core × 6 GB = 72 GB node running a ~15 GB model, a safe context is **1
 
 ## License
 
-MIT License. See [LICENSE](LICENSE) for details. Provided "as is" without warranty.
+AGPL-3.0 License. See [LICENSE](LICENSE) for details. Provided "as is" without warranty.
