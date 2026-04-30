@@ -1,4 +1,4 @@
-# HPC AI Coder — Autonomous Coding Agent for CPU-Only HPC Clusters
+# HPCLoom — Autonomous Coding Agent for CPU-Only HPC Clusters
 
 ![HPCLoom](./HPCLoom.png)
 
